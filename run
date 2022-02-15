@@ -1,0 +1,27 @@
+Welcome to the Python Wumpus World Simulator v1.2 by Erik Phillips. Happy Hunting!
+
+PyAgent_Constructor
+PyAgent_Initialize
+Trial 1, Try 1 begin
+
+World size = 4x4
++---+---+---+---+
+|   |   |   |   |
+|   |   |   |   |
++---+---+---+---+
+|W  |   |   | G |
+|   |   |   |   |
++---+---+---+---+
+|   |   |   |   |
+|   |   |   |   |
++---+---+---+---+
+|   |  P|   |   |
+| A>|   |   |   |
++---+---+---+---+
+Current percept = [stench=False,breeze=True,glitter=False,bump=False,scream=False]
+Agent has gold = False, agent has arrow = True
+Current score = 0
+
+Current Affected:
+4
+1

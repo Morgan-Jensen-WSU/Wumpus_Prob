@@ -1,0 +1,10 @@
+Done:
+Create some way to manage probabilities of each room
+Initialize each room to 0.2 for the pit and 0.07 for wumpus
+Create a queue for actions to be performed for tasks such as moving left or right / reversing
+
+S
+To do:
+Find some way to track possible world states
+On each move, calculate new probabilities based on possible world states
+Implement logic for moving based on statistical likelyhood of success
